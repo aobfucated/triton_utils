@@ -1,0 +1,3 @@
+[submodule "triton_utils"]
+	path = triton_utils
+	url = https://github.com/aobfucated/triton_utils.git
